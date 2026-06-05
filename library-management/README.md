@@ -2,6 +2,19 @@
 
 A complete web-based Library Management System built with Java Servlets, JSP, and MySQL.
 
+<img width="683" height="806" alt="image" src="https://github.com/user-attachments/assets/8fe07dba-555b-440e-8ba9-20213cae922d" />
+
+<img width="1815" height="818" alt="image" src="https://github.com/user-attachments/assets/640dad04-22e6-4e6d-831c-ea72d0445708" />
+
+<img width="1826" height="834" alt="image" src="https://github.com/user-attachments/assets/6678a591-9018-4fe5-90bd-d4431f967614" />
+
+
+<img width="325" height="619" alt="image" src="https://github.com/user-attachments/assets/1bd2a2b0-7eee-4258-9eb7-7dd747e8c529" />
+
+
+
+
+
 ## Features
 
 ### Admin Module
