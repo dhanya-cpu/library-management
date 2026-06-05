@@ -137,11 +137,4 @@ library-management/
 └── pom.xml
 ```
 
-## Business Rules
 
-- Default issue period: **14 days**
-- Fine rate: **₹2 per day** after due date
-- Fine is auto-calculated on book return
-- Reservations expire after **7 days**
-- A member cannot issue the same book twice simultaneously
-- Passwords are hashed with BCrypt
